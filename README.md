@@ -13,13 +13,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://www.vmmenon.org"><img src="https://avatars2.githubusercontent.com/u/5100638?v=4" width="100px;" alt="Vinay Menon"/><br /><sub><b>Vinay Menon</b></sub></a><br /><a href="https://github.com/awsughyd/community-day-2019/commits?author=vinay" title="Code">💻</a> <a href="#design-vinay" title="Design">🎨</a></td>
     <td align="center"><a href="https://www.vinaypuppal.com/"><img src="https://avatars1.githubusercontent.com/u/8843216?v=4" width="100px;" alt="vínαч puppαl"/><br /><sub><b>vínαч puppαl</b></sub></a><br /><a href="https://github.com/awsughyd/community-day-2019/commits?author=vinaypuppal" title="Code">💻</a> <a href="#design-vinaypuppal" title="Design">🎨</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
