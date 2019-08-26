@@ -1,0 +1,25 @@
+{
+  "projectName": "community-day-2019",
+  "projectOwner": "awsughyd",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "vinay",
+      "name": "Vinay Menon",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5100638?v=4",
+      "profile": "http://www.vmmenon.org",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
