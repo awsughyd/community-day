@@ -1,0 +1,21 @@
+{
+  "name": "AWS Users Group, Hyderabad",
+  "short_name": "AWSUGHYD",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/coderplex/image/upload/c_scale,w_192/aws_hyd/54386089.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/coderplex/image/upload/c_scale,w_512/aws_hyd/54386089.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=web_app_manifest",
+  "display": "standalone",
+  "orientation": "natural",
+  "background_color": "#ffffff",
+  "theme_color": "#ff9900"
+}
