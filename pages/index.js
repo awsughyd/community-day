@@ -7,7 +7,7 @@ export default function() {
     <>
       <SEO />
       <main className="max-w-6xl px-4 mx-auto min-h-screen flex">
-        <div className="mt4 sm:mt-8">
+        <div className="mt4 sm:mt-8 mx-auto md:mx-0">
           <header>
             <img className="w-40 h-40 m-auto md:m-0" src={LOGO} alt="logo" />
           </header>
@@ -48,7 +48,7 @@ export default function() {
             </li>
           </ul>
         </div>
-        <div className="hidden md:flex md:items-end absolute events-svg min-h-screen">
+        <div className="hidden lg:block md:items-end absolute events-svg min-h-screen">
           <EventsSvg />
         </div>
         <style jsx>{`
